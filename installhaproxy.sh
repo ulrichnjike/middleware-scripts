@@ -1,8 +1,8 @@
 #!/bin/bash
 
-#Author: Dominique
+#Author: ulrich njike
 
-#Date: March 15, 2022
+#Date: january 19th 2023
 
 #Description: This script is to automate the installation of Haproxy for the load balancer
 

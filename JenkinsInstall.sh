@@ -1,7 +1,7 @@
 #!/bin/bash
 
-#Author: Dominique
-#Date: March 1st, 2022
+#Author: Ulrich njike
+#Date: January 19th 2023
 
 ##This script is to automate the installing Jenkins on a CentOS 7 system using the official Jenkins repository.
 

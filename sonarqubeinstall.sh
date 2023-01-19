@@ -1,7 +1,7 @@
 #!/bin/bash
 
-#Author: Group 10
-#Date: Feb 22 2022
+#Author: Ulrich Njike
+#Date: January 19th 2023
 
 echo "We are installing Sonarqube on CentOS7"
 
