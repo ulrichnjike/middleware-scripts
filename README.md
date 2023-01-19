@@ -1,3 +1,4 @@
 docker installation
 haproxy installation 
 jenkins installation
+sonarqube installation
